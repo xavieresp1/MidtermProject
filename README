@@ -1,0 +1,14 @@
+Game Idea:
+3D Snake:
+The player controls and sees through a green sphere (the head of the snake). 
+The head will move through a fixed-size room and will make contact with yellow spheres. 
+The head is able to turn left and right(with the A and D keys); and is able to only move
+forwards(W key). The mechanic that we will be adding is allowing the snake to jump over 
+its tail, using the spacebar. The yellow spheres will disappear after they have had 
+contact with the green sphere. After each yellow sphere disappears, another will spawn
+in a different location of the map. When the first yellow sphere disappears, the head 
+will spawn a green cube(tail) that is attached to the head. Each yellow sphere that 
+disappears afterwards will cause a green cube to be attached to the previous last 
+cube of the tail. The tail will follow the path of the head. If the head touches 
+any part of the tail, the game will end. The player wins if the tail of the snake
+takes up the entire play area. 
