@@ -1,5 +1,5 @@
 Game Idea:
-3D Snake:
+3D Snake
 The player controls and sees through a green sphere (the head of the snake). 
 The head will move through a fixed-size room and will make contact with yellow spheres. 
 The head is able to turn left and right(with the A and D keys); and is able to only move
